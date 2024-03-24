@@ -2,6 +2,8 @@ package id.ac.pnm.ti.utsmobilesatu
 
 import android.annotation.SuppressLint
 @SuppressLint("SuspiciousIndentation")
+
+
 fun main() {
     // Inisialisasi mutableList dan tambah data List
     val clubs = mutableListOf<Club>()
